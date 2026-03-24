@@ -1,7 +1,6 @@
 Visiting Assistant Professor, Dept. CS, UNCG<br>
 Technical Director of the UNCG Game Development Club Long-Term Project
-
-[Academic CV](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)
+[Academic Curriculum Vitae](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)
 
 <!--
 **rbjohns8/rbjohns8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
