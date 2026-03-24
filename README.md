@@ -1,6 +1,36 @@
-* **Visiting Assistant Professor**, Department of Computer Science, UNCG<br>
-* **Technical Director** of the UNCG Game Development Club Long-Term Project<br>
-* [Academic Curriculum Vitae](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)
+# Dr. Richard B. Johnson
+### **Visiting Assistant Professor of Computer Science | Game Engine Architect**
+*University of North Carolina Greensboro*
+
+* **Visiting Assistant Professor**, Department of Computer Science, UNCG
+* **Technical Director** of the UNCG Game Development Club Long-Term Project
+* **[Academic Curriculum Vitae](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)**
+
+---
+
+### 🔬 Research & Academic Interests
+Systems researcher specializing in High-Performance Computing (HPC), compiler engineering, and the architecture of large-scale agent systems.
+
+* **Systems Programming:** Parallel and distributed computing, memory management, and runtime optimization.
+* **Compiler Engineering:** Inter-node optimizations and custom profilers.
+* **Game Architecture:** Real-time interactive simulation, 2D/3D graphics, gameplay, and AI.
+
+### 🎮 Game Development & Leadership
+* **Technical Director, UNCG Game Development Club:** Mentoring the next generation of developers and overseeing long-term collaborative projects.
+* **Lead Architect, Codename: 'Seraph's Despair':** Overseeing a multi-year volunteer-driven simulation project focused on systemic complexity and performance.
+* **Legacy Archive:** Managing a 25-year private codebase of scratch-built engines and systems (1999–2026) (offline).
+
+### 🛠️ Technical Stack
+* **Languages:** C/C++, GDScript, and many more... (see CV)
+* **Engines/Frameworks:** Godot Engine, Unity, Unreal Engine, MPI, OpenMP, CUDA.
+* **Specialties:** High-performance systems, shader programming, and AI controllers.
+
+---
+
+### 🔒 Note on Repository Privacy
+To protect intellectual property and the integrity of long-term collaborative projects, my primary codebases are maintained in **private repositories**. Professional inquiries regarding specific implementations or academic collaborations are welcome.
+
+**Copyright © 2025-2026 Richard B. Johnson. All rights reserved.**
 
 <!--
 **rbjohns8/rbjohns8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
