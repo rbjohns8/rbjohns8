@@ -1,4 +1,8 @@
-## Hi there 👋
+Visiting Assistant Professor, Dept. CS, UNCG
+Technical Director of the UNCG Game Development Club Long-Term Project
+
+<a href="[https://example.com](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)" target="_blank" rel="noopener noreferrer">Academic CV</a>
+
 
 <!--
 **rbjohns8/rbjohns8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
