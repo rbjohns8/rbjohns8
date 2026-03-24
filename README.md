@@ -1,5 +1,5 @@
-* Visiting Assistant Professor, Department of Computer Science, UNCG<br>
-* Technical Director of the UNCG Game Development Club Long-Term Project<br>
+* **Visiting Assistant Professor**, Department of Computer Science, UNCG<br>
+* **Technical Director** of the UNCG Game Development Club Long-Term Project<br>
 * [Academic Curriculum Vitae](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)
 
 <!--
