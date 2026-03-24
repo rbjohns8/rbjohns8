@@ -23,7 +23,7 @@ Systems researcher specializing in High-Performance Computing (HPC), compiler en
 ### 🛠️ Technical Stack
 * **Languages:** C/C++/C#, GDScript, Python, (Full technical history available in [CV](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link))
 * **Engines:** Godot Engine, Unity, Unreal Engine, Custom Engine Development
-* **Graphics & Media APIs:** DirectX, Direct3D, OpenGL/GLSL
+* **Graphics & Media APIs:** DirectX, Direct3D, OpenGL/GLSL, Godot shaders
 * **Parallel & Distributed Frameworks:** MPI, Pthreads, OpenMP, CUDA
 * **Specialties:** High-performance systems, shader programming, and AI controllers.
 
