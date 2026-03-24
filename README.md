@@ -2,9 +2,9 @@
 ### **Visiting Assistant Professor of Computer Science | Game Engine Architect**
 *University of North Carolina Greensboro*
 
-* **Visiting Assistant Professor**, Department of Computer Science, UNCG
-* **Technical Director** of the UNCG Game Development Club Long-Term Project
-* **[Academic Curriculum Vitae](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)**
+* 🏛️ **Visiting Assistant Professor** | [Department of Computer Science, UNCG](https://compsci.uncg.edu/)
+* 🎮 **Technical Director** | UNCG Game Development Club (Long-Term Project)
+* 📄 **[Academic Curriculum Vitae](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)**
 
 ---
 
@@ -22,7 +22,9 @@ Systems researcher specializing in High-Performance Computing (HPC), compiler en
 
 ### 🛠️ Technical Stack
 * **Languages:** C/C++, GDScript, and many more... (see CV)
-* **Engines/Frameworks:** Godot Engine, Unity, Unreal Engine, MPI, OpenMP, CUDA.
+* **Engines:** Godot Engine, Unity, Unreal Engine, Custom.
+* **Graphics & Media APIs:** DirectX, Direct3D, OpenGL
+* **Parallel & Distributed Frameworks:** PThreads, MPI, OpenMP, CUDA
 * **Specialties:** High-performance systems, shader programming, and AI controllers.
 
 ---
