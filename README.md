@@ -1,6 +1,6 @@
 # Dr. Richard B. Johnson
 ### **Visiting Assistant Professor of Computer Science | Game Engine Architect**
-*University of North Carolina Greensboro*
+*University of North Carolina at Greensboro*
 
 * 🏛️ **Visiting Assistant Professor** | [Department of Computer Science, UNCG](https://compsci.uncg.edu/)
 * 🎮 **Technical Director** | UNCG Game Development Club (Long-Term Project)
