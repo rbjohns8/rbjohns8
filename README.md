@@ -12,7 +12,7 @@
 Systems researcher specializing in High-Performance Computing (HPC), Compiler Engineering, Parallel/Distributed Computing, and the architecture of large-scale agent systems.
 
 * **Systems Programming:** Parallel and distributed computing, memory management, and runtime optimization.
-* **Compiler Engineering:** Inter-node optimizations, custom distributed profilers, and the addition of new language features and compiler passes to incorporate emerging technologies.
+* **Compiler Engineering:** Inter-node optimizations, custom distributed profilers, and incorporating emerging technologies with new language features and compiler passes.
 * **Game Architecture:** Real-time interactive simulation, 2D/3D graphics, gameplay, and AI.
 
 ### 🎮 Game Development & Leadership
