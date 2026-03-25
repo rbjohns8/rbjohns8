@@ -9,7 +9,7 @@
 ---
 
 ### 🔬 Research & Academic Interests
-Systems researcher specializing in High-Performance Computing (HPC), compiler engineering, Parallel/Distributed Computing, and the architecture of large-scale agent systems.
+Systems researcher specializing in High-Performance Computing (HPC), Compiler Engineering, Parallel/Distributed Computing, and the architecture of large-scale agent systems.
 
 * **Systems Programming:** Parallel and distributed computing, memory management, and runtime optimization.
 * **Compiler Engineering:** Inter-node optimizations and custom profilers.
