@@ -24,8 +24,8 @@ Systems researcher specializing in High-Performance Computing (HPC), Compiler En
 * **Languages:** Chapel, C/C++, C#, GDScript, Python, (Full technical history available in [CV](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link))
 * **Engines:** Godot Engine, Unity, Unreal Engine, Custom Engine Development
 * **Graphics & Media APIs:** DirectX, Direct3D, OpenGL/GLSL, Godot shaders
-* **Parallel & Distributed Frameworks:** MPI, Pthreads, OpenMP, CUDA
-* **Specialties:** High-performance systems, graphics & shader programming, and AI controllers.
+* **Parallel & Distributed Frameworks:** MPI, Pthreads, OpenMP, CUDA, GASNet, PMDK
+* **Specialties:** High-performance systems, compiler engineering, graphics & shader programming, and scalable AI controllers.
 
 ---
 
