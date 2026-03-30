@@ -12,13 +12,13 @@
 Systems researcher specializing in High-Performance Computing (HPC), Compiler Engineering, Parallel/Distributed Computing, and the architecture of large-scale agent systems.
 
 * **Systems Programming:** Parallel and distributed computing, memory management, and runtime optimization.
-* **Compiler Engineering:** Inter-node optimizations, custom distributed profilers, and incorporating emerging technologies with new language features and compiler passes.
+* **Compiler Engineering:** Inter-node optimizations, custom distributed profilers, and the design of novel language features and compiler passes to bridge emerging technologies with highly-optimized, massively parallel next-gen architectures.
 * **Game Architecture:** Real-time interactive simulation, 2D/3D graphics, gameplay, and AI.
 
 ### 🎮 Game Development & Leadership
 * **Technical Director, UNCG Game Development Club:** Mentoring the next generation of developers and overseeing long-term collaborative projects.
 * **Lead Architect, Codename: 'Seraph's Despair':** Overseeing a multi-year volunteer-driven simulation project focused on systemic complexity and performance.
-* **Legacy Archive:** Managing a 25-year private codebase of scratch-built engines and systems (1999–2026) (offline).
+* **Legacy Archive:** Managing a 25-year private codebase of projects, scratch-built engines and systems (1999–2026) (offline).
 
 ### 🛠️ Technical Stack
 * **Languages:** C/C++/C#, GDScript, Python, (Full technical history available in [CV](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link))
