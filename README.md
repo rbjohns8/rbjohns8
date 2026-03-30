@@ -21,7 +21,7 @@ Systems researcher specializing in High-Performance Computing (HPC), Compiler En
 * **Legacy Archive:** Managing a 25-year private codebase of projects, scratch-built engines and systems (1999–2026) (offline).
 
 ### 🛠️ Technical Stack
-* **Languages:** C/C++/C#, GDScript, Python, (Full technical history available in [CV](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link))
+* **Languages:** Chapel, C/C++/C#, GDScript, Python, (Full technical history available in [CV](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link))
 * **Engines:** Godot Engine, Unity, Unreal Engine, Custom Engine Development
 * **Graphics & Media APIs:** DirectX, Direct3D, OpenGL/GLSL, Godot shaders
 * **Parallel & Distributed Frameworks:** MPI, Pthreads, OpenMP, CUDA
