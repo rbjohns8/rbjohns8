@@ -13,7 +13,7 @@ Systems researcher specializing in High-Performance Computing (HPC), Compiler En
 
 * **Systems Programming:** Scalable parallel and distributed systems, low-level memory management, and high-performance runtime optimization.
 * **Compiler Engineering:** Inter-node optimizations, custom distributed profilers, and the design of novel language features and compiler passes to bridge emerging technologies with highly-optimized, massively parallel next-gen architectures.
-* **Game Architecture:** Real-time interactive simulation, low-latency engine design (2D/3D), and the implementation of complex finite state machines for autonomous agent systems.
+* **Game Architecture:** Real-time simulation kernels, data-oriented engine design, and the architectural optimization of declarative AI (Utility AI / GOAP) for massively parallel agent populations.
 
 ### 🎮 Game Development & Leadership
 * **Technical Director, UNCG Game Development Club:** Mentoring the next generation of developers and overseeing long-term collaborative projects.
