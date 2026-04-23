@@ -3,6 +3,7 @@
 *University of North Carolina at Greensboro*
 
 * 🏛️ **Visiting Assistant Professor** | [Department of Computer Science, UNCG](https://compsci.uncg.edu/)
+* 🎓 **Faculty Advisor** | UNCG ACM Student Chapter
 * 🎮 **Technical Director** | UNCG Game Development Club (Long-Term Project)
 * 📄 **[Academic Curriculum Vitae](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)**
 
