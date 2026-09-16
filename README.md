@@ -10,11 +10,11 @@
 ---
 
 ### 🔬 Research & Academic Interests
-Systems researcher specializing in High-Performance Computing (HPC), Compiler Engineering, Parallel/Distributed Computing, and the architecture of large-scale agent systems.
+Systems researcher specializing in High-Performance Computing (HPC), Compiler Engineering, Parallel/Distributed Computing, and the architecture of high-performance simulation kernels and distributed state systems.
 
 * **Systems Programming:** Scalable parallel and distributed systems, low-level memory management, and high-performance runtime optimization.
 * **Compiler Engineering:** Inter-node optimizations, custom distributed profilers, and the design of novel language features and compiler passes to bridge emerging technologies with highly-optimized, massively parallel next-gen architectures.
-* **Game Architecture:** Real-time simulation kernels, data-oriented pipeline and engine design, programmable graphics pipelines (GLSL/GDShader), and scalable declarative AI (Util AI/GOAP) for massively parallel agent populations.
+* **Game Architecture:** Real-time simulation kernels, data-oriented pipeline and engine design, programmable graphics pipelines (GLSL/GDShader), and decision-making systems including FSM, behavior trees, Utility AI and GOAP.
 
 ### 🎮 Game Development & Leadership
 * **Technical Director, UNCG Game Development Club:** Mentoring the next generation of developers and overseeing long-term collaborative projects.
@@ -26,7 +26,7 @@ Systems researcher specializing in High-Performance Computing (HPC), Compiler En
 * **Engines:** Godot Engine, Unity, Unreal Engine, Custom Engine Development
 * **Graphics & Media APIs:** DirectX, Direct3D, OpenGL/GLSL, Godot shaders
 * **Parallel & Distributed Frameworks:** MPI, Pthreads, OpenMP, CUDA, GASNet, PMDK
-* **Specialties:** High-performance systems, compiler engineering, graphics & shader programming, and scalable AI controllers.
+* **Specialties:** High-performance systems, compiler engineering, graphics & shader programming, and game AI systems (Utility AI and GOAP).
 
 ---
 
