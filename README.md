@@ -26,7 +26,7 @@ Systems researcher specializing in High-Performance Computing (HPC), Compiler En
 * **Engines:** Godot Engine, Unity, Unreal Engine, Custom Engine Development
 * **Graphics & Media APIs:** DirectX, Direct3D, OpenGL/GLSL, Godot shaders
 * **Parallel & Distributed Frameworks:** MPI, Pthreads, OpenMP, CUDA, GASNet, PMDK
-* **Specialties:** High-performance systems, compiler engineering, graphics & shader programming, and game AI systems (Utility AI and GOAP).
+* **Specialties:** High-performance systems, compiler engineering, graphics & shader programming, and game AI systems.
 
 ---
 
