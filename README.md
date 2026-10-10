@@ -5,7 +5,7 @@
 * 🏛️ **Visiting Assistant Professor** | [Department of Computer Science, UNCG](https://compsci.uncg.edu/)
 * 🎓 **Faculty Advisor** | UNCG ACM Student Chapter
 * 🎮 **Technical Director** | UNCG Game Development Club (Long-Term Project)
-* 📄 **[Academic Curriculum Vitae](https://drive.google.com/file/d/1wSvFOT8NXovY3ARKSKbPKdDcGEX-SgB4/view?usp=drive_link)**
+* 📄 **[Academic Curriculum Vitae](https://drive.google.com/file/d/1XsE6IAZd42K9Ehpz17TGvfj4sma9e4No/view?usp=drive_link)**
 
 ---
 
