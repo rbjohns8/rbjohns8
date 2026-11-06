@@ -8,7 +8,13 @@
 * 📄 **[Academic Curriculum Vitae](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)**
 
 ---
-
+### 🎓 Academic Background
+* **Ph.D. in Computer Science** — [University of Maryland](https://www.cs.umd.edu/~rbjohns8/home.html) ([Wayback Archive](https://web.archive.org/web/20261106202650/https://www.cs.umd.edu/~rbjohns8/home.html))
+  * *Dissertation:* Hybrid-PGAS Memory Hierarchy for Next Generation HPC Systems
+* **M.S. in Computer Science** — University of Maryland
+* **M.S. in Information Technology & Management** — UNC Greensboro
+* **B.S. in Real-Time Interactive Simulation** — DigiPen Institute of Technology
+  
 ### 🔬 Research & Academic Interests
 Systems researcher specializing in High-Performance Computing (HPC), Compiler Engineering, Parallel/Distributed Computing, and the architecture of high-performance simulation kernels and distributed state systems.
 
