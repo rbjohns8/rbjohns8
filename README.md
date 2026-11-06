@@ -3,13 +3,14 @@
 *University of North Carolina at Greensboro*
 
 * 🏛️ **Visiting Assistant Professor** | [Department of Computer Science, UNCG](https://compsci.uncg.edu/)
-* 🎓 **Faculty Advisor** | UNCG ACM Student Chapter
+* 🎓 **Faculty Advisor** | UNCG ACM Student Chapter 2025 - Present
+* 🎓 **Faculty Advisor** | LeetClub 2026 - Present
 * 🎮 **Technical Director** | UNCG Game Development Club (Long-Term Project)
 * 📄 **[Academic Curriculum Vitae](https://drive.google.com/file/d/1Y7E1CEW0meI7640NNvEwhKDTfLixRo8t/view?usp=drive_link)**
 
 ---
 ### 🎓 Academic Background
-* **Ph.D. in Computer Science** — [University of Maryland, College Park](https://www.cs.umd.edu/~rbjohns8/home.html)   ([Archive](https://web.archive.org/web/20261106202650/https://www.cs.umd.edu/~rbjohns8/home.html))
+* **Ph.D. in Computer Science** — [University of Maryland, College Park](https://www.cs.umd.edu/~rbjohns8/home.html) &nbsp;&nbsp;&nbsp; ([Archive](https://web.archive.org/web/20261106202650/https://www.cs.umd.edu/~rbjohns8/home.html))
   * *Dissertation:* Hybrid-PGAS Memory Hierarchy for Next Generation HPC Systems
 * **M.S. in Computer Science** — University of Maryland, College Park
 * **M.S. in Information Technology & Management** — UNC Greensboro
