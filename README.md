@@ -9,9 +9,9 @@
 
 ---
 ### 🎓 Academic Background
-* **Ph.D. in Computer Science** — [University of Maryland](https://www.cs.umd.edu/~rbjohns8/home.html) ([Wayback Archive](https://web.archive.org/web/20261106202650/https://www.cs.umd.edu/~rbjohns8/home.html))
+* **Ph.D. in Computer Science** — [University of Maryland, College Park](https://www.cs.umd.edu/~rbjohns8/home.html)   ([Archive](https://web.archive.org/web/20261106202650/https://www.cs.umd.edu/~rbjohns8/home.html))
   * *Dissertation:* Hybrid-PGAS Memory Hierarchy for Next Generation HPC Systems
-* **M.S. in Computer Science** — University of Maryland
+* **M.S. in Computer Science** — University of Maryland, College Park
 * **M.S. in Information Technology & Management** — UNC Greensboro
 * **B.S. in Real-Time Interactive Simulation** — DigiPen Institute of Technology
   
